@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+.right{
+    display: flex;
+flex-direction: column;
+
+}
+#selection{
+    padding: 10px;
+    font-size: 1.2rem;
+
+}
+.btn .btn1 .btn2  {
+    padding: 15px 30px 15px 30px;
+    
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-left: 0;
+}
+
+.blue1{
+    border-top: 4px solid #395AFF;
+    height: 10px;
+    width: 100px;
+    border-radius: 4px;
+}
+.blue2{
+     border-top: 4px solid #395AFF;
+    height: 10px;
+    width: 80px;
+    border-radius: 4px;
+}
+.blue3{
+     border-top: 4px solid #395AFF;
+    height: 10px;
+    width: 50px;
+    border-radius: 4px;
+}
+.blue4{
+     border-top: 4px solid #395AFF;
+    height: 10px;
+    width: 30px;
+    border-radius: 4px;
+}
+
+section{
+    display: flex;
+flex-wrap: wrap;
+margin: 0;
+}
+h1{
+    display: flex;
+    font-size: 3.3rem;
+    line-height: 60px;
+}
+p{
+    max-width: 350px;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+}
+
+
+.btn3{
+padding: 15px;
+font-size: 1rem;
+
+}
+
+.codingnest-banner{
+    margin-top: 50px;
+}
+ .codingnest-banner img {
+            width: 410px;
+            height: 260px;  
+        }
+
+      footer{
+         margin: 0 100px;
+      }
+        footer h4{
+            font-size: 1.3rem;
+
+           
+        }
+.googleplay{
+    margin: 5px 10px;
+}
+        
+
+        .googleplay img {
+            width: 180px;
+            border-radius: 1px;
+        }
